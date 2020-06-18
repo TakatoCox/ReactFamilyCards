@@ -30,7 +30,7 @@
 @media(max-width: 380px){
     .App-clock{
         margin-top:-9vh;
-        width:18vh;
+        width:20vh;
         height:5vh;
         font-size: 4vh;
     }
