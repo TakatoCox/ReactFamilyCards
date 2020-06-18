@@ -25,6 +25,7 @@ background:linear-gradient(to top,deepSkyBlue,white);
 .one{
     display: flex;
     justify-content: space-evenly;
+    flex-wrap:wrap;
     padding: 5px;
     width: 100vw;
 }

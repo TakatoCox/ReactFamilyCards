@@ -40,6 +40,8 @@ const WeatherCard= ({temp, condition, city, country, timeZone, name}) => {
     border-radius: 15px;
     margin-top:25px;
     margin-bottom:25px;
+    margin-left:1.5px;
+    margin-right:1.5px;
     `
     const Title = styled.div`
     border-style: solid;
