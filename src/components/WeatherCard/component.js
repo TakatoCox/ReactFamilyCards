@@ -38,8 +38,6 @@ const WeatherCard= ({temp, condition, city, country, timeZone, name}) => {
     justify-content: space-around;
     align-items: center;
     border-radius: 15px;
-    margin-top:10px;
-    margin-bottom:10px;
     `
     const Title = styled.div`
     border-style: solid;
@@ -55,7 +53,7 @@ const WeatherCard= ({temp, condition, city, country, timeZone, name}) => {
     `
 
     return (
-        <div className="cardTime">
+        <div>
         <Card>
             <Title>{name}</Title>
             <Location city = {city} country={country}/>

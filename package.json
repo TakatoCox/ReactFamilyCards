@@ -1,7 +1,7 @@
 {
   "name": "react-practice",
   "version": "0.1.0",
-  "homepage":"http://TakatoCox.github.io/ReactFamilyCards",
+  "homepage": "http://TakatoCox.github.io/ReactFamilyCards",
   "private": true,
   "dependencies": {
     "@emotion/core": "^10.0.28",
@@ -38,5 +38,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh": "^2.8.8",
+    "pages": "0.0.16"
   }
 }
