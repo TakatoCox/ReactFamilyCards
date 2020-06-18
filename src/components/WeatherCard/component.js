@@ -38,8 +38,8 @@ const WeatherCard= ({temp, condition, city, country, timeZone, name}) => {
     justify-content: space-around;
     align-items: center;
     border-radius: 15px;
-    margin-top:10px;
-    margin-bottom:10px;
+    margin-top:25px;
+    margin-bottom:25px;
     `
     const Title = styled.div`
     border-style: solid;

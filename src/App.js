@@ -26,6 +26,15 @@ function App() {
         <WeatherEngine location="Seattle" name ="Taylor"/>
         <WeatherEngine location="Regina, ca" name ="Brandon"/>
         </div>
+        <div className="one"> 
+        <WeatherEngine location="Ottawa" name ="Erin"/>
+        <WeatherEngine location="Winnipeg" name ="Tim"/>
+        <WeatherEngine location="Winnipeg" name ="Corrine"/>
+        </div>
+        <div className="one"> 
+        <WeatherEngine location="Winnipeg" name ="Darian"/>
+        <WeatherEngine location="Winnipeg" name ="Jordy"/>
+        </div>
     </div>
   );
 }

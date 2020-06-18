@@ -29,7 +29,7 @@ background:linear-gradient(to top,deepSkyBlue,white);
     width: 100vw;
 }
 
-@media(max-width: 768px){
+@media(max-width: 500px){
     .App{
         width:460px;
     }

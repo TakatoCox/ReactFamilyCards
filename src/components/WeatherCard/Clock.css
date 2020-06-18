@@ -11,7 +11,7 @@
     border-radius: 12px;
     border-width: 4px;
     background-color: rgb(219, 248, 175);
-    margin-top: -5.7vh;
+    margin-top: -8vh;
 }
 
 .seconds{
@@ -27,14 +27,14 @@
 }
 
 
-@media(max-width: 768px){
+@media(max-width: 380px){
     .App-clock{
-        margin-top:-12vh;
-        width:25vh;
-        height:8vh;
-        font-size: 5vh;
+        margin-top:-9vh;
+        width:18vh;
+        height:5vh;
+        font-size: 4vh;
     }
     .seconds{
-        font-size: 3vh;
+        font-size: 2vh;
     }
 }
