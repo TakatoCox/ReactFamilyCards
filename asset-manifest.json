@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ReactFamilyCards/static/css/main.b7620294.chunk.css",
+    "main.css": "/ReactFamilyCards/static/css/main.8a396d58.chunk.css",
     "main.js": "/ReactFamilyCards/static/js/main.cf679490.chunk.js",
     "main.js.map": "/ReactFamilyCards/static/js/main.cf679490.chunk.js.map",
     "runtime-main.js": "/ReactFamilyCards/static/js/runtime-main.041fb6b4.js",
@@ -9,17 +9,17 @@
     "static/js/2.57e59cc6.chunk.js": "/ReactFamilyCards/static/js/2.57e59cc6.chunk.js",
     "static/js/2.57e59cc6.chunk.js.map": "/ReactFamilyCards/static/js/2.57e59cc6.chunk.js.map",
     "index.html": "/ReactFamilyCards/index.html",
-    "precache-manifest.cae96fafe5da703b10fea2be272d2a1c.js": "/ReactFamilyCards/precache-manifest.cae96fafe5da703b10fea2be272d2a1c.js",
+    "precache-manifest.cb579a86fc4411ce63663dc70feb45c4.js": "/ReactFamilyCards/precache-manifest.cb579a86fc4411ce63663dc70feb45c4.js",
     "service-worker.js": "/ReactFamilyCards/service-worker.js",
     "static/css/2.f47422e6.chunk.css.map": "/ReactFamilyCards/static/css/2.f47422e6.chunk.css.map",
-    "static/css/main.b7620294.chunk.css.map": "/ReactFamilyCards/static/css/main.b7620294.chunk.css.map",
+    "static/css/main.8a396d58.chunk.css.map": "/ReactFamilyCards/static/css/main.8a396d58.chunk.css.map",
     "static/js/2.57e59cc6.chunk.js.LICENSE.txt": "/ReactFamilyCards/static/js/2.57e59cc6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.041fb6b4.js",
     "static/css/2.f47422e6.chunk.css",
     "static/js/2.57e59cc6.chunk.js",
-    "static/css/main.b7620294.chunk.css",
+    "static/css/main.8a396d58.chunk.css",
     "static/js/main.cf679490.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f1c09549cb7f05472b1e00c663f5f984",
+    "revision": "92bddb55527cdfbd2bc8be2177d537b2",
     "url": "/ReactFamilyCards/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactFamilyCards/static/css/2.f47422e6.chunk.css"
   },
   {
-    "revision": "6cc74c4624788a88a385",
-    "url": "/ReactFamilyCards/static/css/main.b7620294.chunk.css"
+    "revision": "5a189a879de6a1052d58",
+    "url": "/ReactFamilyCards/static/css/main.8a396d58.chunk.css"
   },
   {
     "revision": "c9a68db47de0b0836ed7",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactFamilyCards/static/js/2.57e59cc6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6cc74c4624788a88a385",
+    "revision": "5a189a879de6a1052d58",
     "url": "/ReactFamilyCards/static/js/main.cf679490.chunk.js"
   },
   {
