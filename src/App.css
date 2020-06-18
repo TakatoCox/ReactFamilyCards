@@ -30,18 +30,18 @@ background:linear-gradient(to top,deepSkyBlue,white);
     width: 100vw;
 }
 
-@media(max-width: 500px){
+@media(max-width: 700px){
     .App{
-        width:460px;
+        width:700px;
     }
     header{
-        width: 460px;
+        width: 700px;
         align-self: center;
     }
     .one{
         display: flex;
         justify-content: space-evenly;
         flex-wrap: wrap;
-        width: 460px;
+        width: 700px;
     }
 }

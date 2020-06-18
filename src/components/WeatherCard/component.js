@@ -40,8 +40,12 @@ const WeatherCard= ({temp, condition, city, country, timeZone, name}) => {
     border-radius: 15px;
     margin-top:25px;
     margin-bottom:25px;
-    margin-left:1.5px;
-    margin-right:1.5px;
+    margin-left:1px;
+    margin-right:1px;
+    @media(max-width: 700px){
+        width:200px;
+        height:280px;
+    }
     `
     const Title = styled.div`
     border-style: solid;
@@ -54,11 +58,14 @@ const WeatherCard= ({temp, condition, city, country, timeZone, name}) => {
     background: linear-gradient(to left,white,deepskyblue,white,deepskyblue);
     border-radius:30px;
     margin-top:2px;
+    @media(max-width: 700px){
+        width:150px;
+    }
     `
 
     return (
         <div className="cardTime">
-        <Card>
+        <Card className="card">
             <Title>{name}</Title>
             <Location city = {city} country={country}/>
              <Icon condition = {condition}/>

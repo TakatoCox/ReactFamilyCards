@@ -14,7 +14,9 @@ const Condition = ({temp, condition}) => {
     margin-top: -3vh;
     margin-bottom:0;
     color: ${tempColor};
-    
+    @media(max-width: 700px){
+        font-size:1.4rem;
+    }
     `
     const State = styled.h3`
     font-family: "Merriweather", sans-serif;
@@ -23,6 +25,9 @@ const Condition = ({temp, condition}) => {
     padding-top:0vh;
     padding-bottom:30px;
     color:white;
+    @media(max-width: 700px){
+        font-size:1rem;
+    }
     `
 
     return(

@@ -6,7 +6,10 @@ const Icon = (props) => {
     width: 30%;
     height: 22%;
     margin-bottom:0;
-    margin-top:-1vh;;
+    margin-top:-1vh;
+    @media(max-width: 700px){
+        margin-top: -2vh;
+    }
     `;
 
     var icon = '';
