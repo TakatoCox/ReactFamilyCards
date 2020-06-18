@@ -15,18 +15,18 @@ function App() {
         <WeatherEngine location="Santa Cruz, US" name ="Hiro"/>
         <WeatherEngine location="Yachio" name ="Yasuko"/>
  
-        <WeatherEngine location="Tottori, jp" name ="Kei"/>
-        <WeatherEngine location="Yachio" name ="Atsushi"/>
+        <WeatherEngine location="Yachio" name ="Kei"/>
+        <WeatherEngine location="Yachio" name ="Atsushi K."/>
         <WeatherEngine location="Saitama, jp" name ="Yuko"/>
+        <WeatherEngine location="Tottori, jp" name ="Atsushi T."/>
 
-        <WeatherEngine location="Winnipeg" name ="Les"/>
+        <WeatherEngine location="Ottawa" name ="Erin"/>
         <WeatherEngine location="Seattle" name ="Taylor"/>
         <WeatherEngine location="Regina, ca" name ="Brandon"/>
 
-        <WeatherEngine location="Ottawa" name ="Erin"/>
+        <WeatherEngine location="Winnipeg" name ="Les"/>
         <WeatherEngine location="Winnipeg" name ="Tim"/>
         <WeatherEngine location="Winnipeg" name ="Corrine"/>
-
         <WeatherEngine location="Winnipeg" name ="Darian"/>
         <WeatherEngine location="Winnipeg" name ="Jordy"/>
         </div>
