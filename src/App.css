@@ -20,6 +20,9 @@ display: flex;
 flex-direction: column;
 justify-content: space-evenly;
 background:linear-gradient(to top,deepSkyBlue,white);
+text-decoration: underline;
+font-weight: bold;
+padding-top: 5vh;
 }
 
 .one{
