@@ -2,7 +2,6 @@ import React, {Component}  from 'react';
 import "./Clock.css"
 
 class Time extends Component{
-  _isMounted = false;
 
   constructor(props){
     super(props);
@@ -60,6 +59,8 @@ class Time extends Component{
       
       if(currHours+timeDiff>12 && currHours<24)
       this.setState({hours: new Date().getHours()+timeDiff-12})
+      else if(currHours+timeDiff===0)
+      this.setState({hours:12})
       else
       this.setState({hours: new Date().getHours()+timeDiff})
 
@@ -71,15 +72,8 @@ class Time extends Component{
     }
 
      componentDidMount(){
-      this._isMounted = true;
-
-      if(this._isMounted)
         setInterval(()=>this.currentTime(),1000)
-  
-      }
-    componentWillUnmount() {
-      this._isMounted = false;
-    }
+     }
 
    render(){
       return(

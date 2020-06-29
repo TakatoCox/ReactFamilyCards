@@ -9,13 +9,12 @@ import "./Clock.css"
 
 const WeatherCard= ({temp, condition, city, country, timeZone, name}) => {
     
-
     let highColor = 0;
     let lowColor = 0;
     let bg = null;
     if(temp > 10){ //hot weather
-    highColor = (1-(temp-10)/28)*255;
-    lowColor = highColor - 150;
+    highColor = (1-(temp)/55)*255;
+    lowColor = highColor - 120;
     bg = `linear-gradient(to top, 
         rgba(255,${highColor},0), 
         rgba(200,${lowColor},0)

@@ -1,7 +1,8 @@
 import React from 'react'
 import styled from '@emotion/styled';
 
-const Icon = (props) => {
+const Icon = ({condition}) => {
+
     const Icon = styled.img`
     width: 30%;
     height: 22%;
@@ -13,7 +14,7 @@ const Icon = (props) => {
     `;
 
     var icon = '';
-    switch(props.condition){
+    switch(condition){
     case "Clear":
         icon = `./img/clear.png`;
     break;
@@ -46,7 +47,7 @@ const Icon = (props) => {
 }
 
     return(
-        <Icon src={icon} 
+        <Icon src={icon}
         alt="Weather Icon"/>
     )
 }

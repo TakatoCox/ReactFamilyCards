@@ -18,6 +18,7 @@ const getWeather = async(q)=>{
     `https://api.openweathermap.org/data/2.5/weather?q=${q}&appid=62a9294025f4bd4ff8dee879a50f9b58&units=metric`
    );
    const resJSON = await apiRes.json();
+
    setWeather({
      temp: resJSON.main.temp,
      city: resJSON.name,
@@ -30,6 +31,8 @@ const getWeather = async(q)=>{
 useEffect(()=>{
   getWeather(location);
 } ,[location]);
+
+
 
   return (
     <div>

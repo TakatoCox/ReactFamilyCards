@@ -31,10 +31,10 @@ margin-left:1vh;
 `
 
     return(
-<Container>        
-    <City>{city}</City>
-    <Country>{country}</Country>
-</Container>
+    <Container>        
+        <City>{city}</City>
+        <Country>{country}</Country>
+    </Container>
     );
 }
 export default Location;
