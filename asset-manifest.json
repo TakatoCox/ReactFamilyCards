@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ReactFamilyCards/static/css/main.8a396d58.chunk.css",
-    "main.js": "/ReactFamilyCards/static/js/main.8db3911c.chunk.js",
-    "main.js.map": "/ReactFamilyCards/static/js/main.8db3911c.chunk.js.map",
+    "main.js": "/ReactFamilyCards/static/js/main.c055e54f.chunk.js",
+    "main.js.map": "/ReactFamilyCards/static/js/main.c055e54f.chunk.js.map",
     "runtime-main.js": "/ReactFamilyCards/static/js/runtime-main.041fb6b4.js",
     "runtime-main.js.map": "/ReactFamilyCards/static/js/runtime-main.041fb6b4.js.map",
     "static/css/2.f47422e6.chunk.css": "/ReactFamilyCards/static/css/2.f47422e6.chunk.css",
     "static/js/2.57e59cc6.chunk.js": "/ReactFamilyCards/static/js/2.57e59cc6.chunk.js",
     "static/js/2.57e59cc6.chunk.js.map": "/ReactFamilyCards/static/js/2.57e59cc6.chunk.js.map",
     "index.html": "/ReactFamilyCards/index.html",
-    "precache-manifest.c16a4d53839cd324c7948ea9432e3cf0.js": "/ReactFamilyCards/precache-manifest.c16a4d53839cd324c7948ea9432e3cf0.js",
+    "precache-manifest.cf41942c22a6b5f0e6cebf979a5aea99.js": "/ReactFamilyCards/precache-manifest.cf41942c22a6b5f0e6cebf979a5aea99.js",
     "service-worker.js": "/ReactFamilyCards/service-worker.js",
     "static/css/2.f47422e6.chunk.css.map": "/ReactFamilyCards/static/css/2.f47422e6.chunk.css.map",
     "static/css/main.8a396d58.chunk.css.map": "/ReactFamilyCards/static/css/main.8a396d58.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.f47422e6.chunk.css",
     "static/js/2.57e59cc6.chunk.js",
     "static/css/main.8a396d58.chunk.css",
-    "static/js/main.8db3911c.chunk.js"
+    "static/js/main.c055e54f.chunk.js"
   ]
 }
