@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ReactFamilyCards/static/css/main.8a396d58.chunk.css",
-    "main.js": "/ReactFamilyCards/static/js/main.c055e54f.chunk.js",
-    "main.js.map": "/ReactFamilyCards/static/js/main.c055e54f.chunk.js.map",
-    "runtime-main.js": "/ReactFamilyCards/static/js/runtime-main.041fb6b4.js",
-    "runtime-main.js.map": "/ReactFamilyCards/static/js/runtime-main.041fb6b4.js.map",
-    "static/css/2.f47422e6.chunk.css": "/ReactFamilyCards/static/css/2.f47422e6.chunk.css",
-    "static/js/2.57e59cc6.chunk.js": "/ReactFamilyCards/static/js/2.57e59cc6.chunk.js",
-    "static/js/2.57e59cc6.chunk.js.map": "/ReactFamilyCards/static/js/2.57e59cc6.chunk.js.map",
-    "index.html": "/ReactFamilyCards/index.html",
-    "precache-manifest.cf41942c22a6b5f0e6cebf979a5aea99.js": "/ReactFamilyCards/precache-manifest.cf41942c22a6b5f0e6cebf979a5aea99.js",
-    "service-worker.js": "/ReactFamilyCards/service-worker.js",
-    "static/css/2.f47422e6.chunk.css.map": "/ReactFamilyCards/static/css/2.f47422e6.chunk.css.map",
-    "static/css/main.8a396d58.chunk.css.map": "/ReactFamilyCards/static/css/main.8a396d58.chunk.css.map",
-    "static/js/2.57e59cc6.chunk.js.LICENSE.txt": "/ReactFamilyCards/static/js/2.57e59cc6.chunk.js.LICENSE.txt"
+    "main.css": "/://TakatoCox.github.io/ReactFamilyCards/static/css/main.001b6194.chunk.css",
+    "main.js": "/://TakatoCox.github.io/ReactFamilyCards/static/js/main.0908d63d.chunk.js",
+    "main.js.map": "/://TakatoCox.github.io/ReactFamilyCards/static/js/main.0908d63d.chunk.js.map",
+    "runtime-main.js": "/://TakatoCox.github.io/ReactFamilyCards/static/js/runtime-main.b184faf3.js",
+    "runtime-main.js.map": "/://TakatoCox.github.io/ReactFamilyCards/static/js/runtime-main.b184faf3.js.map",
+    "static/css/2.f47422e6.chunk.css": "/://TakatoCox.github.io/ReactFamilyCards/static/css/2.f47422e6.chunk.css",
+    "static/js/2.57e59cc6.chunk.js": "/://TakatoCox.github.io/ReactFamilyCards/static/js/2.57e59cc6.chunk.js",
+    "static/js/2.57e59cc6.chunk.js.map": "/://TakatoCox.github.io/ReactFamilyCards/static/js/2.57e59cc6.chunk.js.map",
+    "index.html": "/://TakatoCox.github.io/ReactFamilyCards/index.html",
+    "precache-manifest.71646398dd64fae77dfaf8e7ce681345.js": "/://TakatoCox.github.io/ReactFamilyCards/precache-manifest.71646398dd64fae77dfaf8e7ce681345.js",
+    "service-worker.js": "/://TakatoCox.github.io/ReactFamilyCards/service-worker.js",
+    "static/css/2.f47422e6.chunk.css.map": "/://TakatoCox.github.io/ReactFamilyCards/static/css/2.f47422e6.chunk.css.map",
+    "static/css/main.001b6194.chunk.css.map": "/://TakatoCox.github.io/ReactFamilyCards/static/css/main.001b6194.chunk.css.map",
+    "static/js/2.57e59cc6.chunk.js.LICENSE.txt": "/://TakatoCox.github.io/ReactFamilyCards/static/js/2.57e59cc6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.041fb6b4.js",
+    "static/js/runtime-main.b184faf3.js",
     "static/css/2.f47422e6.chunk.css",
     "static/js/2.57e59cc6.chunk.js",
-    "static/css/main.8a396d58.chunk.css",
-    "static/js/main.c055e54f.chunk.js"
+    "static/css/main.001b6194.chunk.css",
+    "static/js/main.0908d63d.chunk.js"
   ]
 }
