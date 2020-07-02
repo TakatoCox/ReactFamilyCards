@@ -44,7 +44,7 @@ class Time extends Component{
                 timeDiff = -8
               break;
           case 28800: //Beijing Time
-              if(currHour >= 0 && currHour < 7)
+              if(currHour >= 0 && currHour < 9)
                 timeDiff = 15
               else 
                 timeDiff = -9
