@@ -7,7 +7,7 @@ const WeatherEngine = ({location, name}) => {
 const[weather, setWeather] = useState({
     temp: null,
     city: null,
-    condition: null,
+    condition: "test",
     country: null,
     timeZone: null
 });
@@ -31,8 +31,6 @@ const getWeather = async(q)=>{
 useEffect(()=>{
   getWeather(location);
 } ,[location]);
-
-
 
   return (
     <div>

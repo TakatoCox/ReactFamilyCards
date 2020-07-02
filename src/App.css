@@ -3,11 +3,11 @@
 .App{
     background: linear-gradient(to top,rgb(199, 240, 253),deepSkyBlue, rgb(199, 240, 253), deepSkyBlue);
     padding-top: 0px;
-    margin: 0 auto;
     color: rgb(255, 255, 255);
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;    
+    justify-content: space-evenly;   
+    height: auto;
 }
 
 header{
@@ -31,6 +31,7 @@ padding-top: 5vh;
     flex-wrap:wrap;
     padding: 5px;
     width: 100vw;
+    margin-bottom: 40px;
 }
 
 @media(max-width: 700px){
